@@ -122,7 +122,7 @@
             <div class="hero-container text-center">
                 <div class="d-flex flex-column justify-content-center align-items-center">
                     <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000"
-                        data-aos-delay="50">Lock & Quay Towns - Welland</span>
+                        data-aos-delay="50">Lock and Quay Towns - Welland</span>
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
                         data-aos-duration="2000" data-aos-delay="50">Welland’s Largest Ever Master-Planned Community by
@@ -137,7 +137,7 @@
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2
                 class="fs-1 pt-md-5 pb-3  fw-bold ps-3 ps-md-0 d-flex justify-content-center d-flex justify-content-center align-items-center text-center">
-                About Lock & Quay Towns</h2>
+                About Lock and Quay Towns</h2>
             <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center ">Lock & Quay by LIV Communities
                 is a new pre-construction development in Welland, featuring urban townhomes along the city's scenic
                 waterways. This master-planned community consists of four distinct neighborhoods, each with unique
@@ -334,6 +334,10 @@
         <div class="pt-md-5 pt-5"></div>
 
         <div class="pt-5">
+            <div class="d-flex justify-content-center align-items-center">
+                <img src="images/liv.webp" class="img-fluid regoimg " alt="LIV Communities-logo">
+
+            </div>
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
                 <span class="mx-1">About LIV Communities </span>
             </h2>
@@ -519,10 +523,10 @@
                         appearance. Please consult with the builder for the most up-to-date information on the homes and
                         specifications </span>
                     <div class="list pt-2 d-md-block d-none">
-                        <p class=""> <a href="https://dolphy.ca/pre-construction-homes/Welland" target="_blank"
+                        <p class=""> <a href="https://condomonk.ca/welland" target="_blank"
                                 class="text-dark text-decoration-none"><strong>
                                     Check out all Welland pre construction homes projects on
-                                    Dolphy.</strong></a>
+                                    Condomonk.</strong></a>
                         </p>
 
                     </div>
@@ -556,10 +560,10 @@
             </div>
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm">
-                <p class=""> <a href="https://dolphy.ca/pre-construction-homes/welland" target="_blank"
+                <p class=""> <a href="https://condomonk.ca/welland" target="_blank"
                         class="text-dark text-decoration-none"><strong>
                             Check out all Welland pre construction homes projects on
-                            Dolphy.</strong></a>
+                            Condomonk.</strong></a>
                 </p>
 
             </div>
