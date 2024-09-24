@@ -237,7 +237,7 @@
                     Welland, ON</span>
                 <div class="row row-cols-md-2 row-cols-1 text-center mx-2 mx-md-0">
                     <div class="bg-white p-1  rounded-mine d-flex justify-content-center col">
-                        <img src="./images/map.png" class="img-fluid" alt="">
+                        <img src="./images/map-lock.png" class="img-fluid" alt="">
                     </div>
                     <div class="bg-white p-1   rounded-mine d-flex justify-content-center align-items-center col">
 
@@ -260,6 +260,20 @@
         </div>
     </section>
 
+    <section>
+        <div class="py-md-5 pt-5"></div>
+        <div class="pt-md-5 pt-2"></div>
+        <div class="container">
+            <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color pb-md-3 pb-2">
+                <span class="mx-1">Lock & Quay Towns - Waterfront Living in Welland </span>
+            </h2>
+            <div>
+                <img src="images/map.png" class="img-fluid " alt="">
+            </div>
+        </div>
+
+    </section>
+    <div class="py-md-5 pt-5"></div>
     <section class="mt-md-5 py-md-5" id="faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
