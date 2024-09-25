@@ -138,7 +138,10 @@
             <h2
                 class="fs-1 pt-md-5 pb-3  fw-bold ps-3 ps-md-0 d-flex justify-content-center d-flex justify-content-center align-items-center text-center">
                 About Lock and Quay Towns</h2>
-            <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center ">Lock & Quay by LIV Communities
+            <p class=" pb-3 px-3 textt ">
+                <span> <a href="https://condomonk.ca/welland/lock-quay" target="_blank"
+                        class="fw-bold text-decoration-none text-dark">Lock &
+                        Quay by LIV Communities </a></span>
                 is a new pre-construction development in Welland, featuring urban townhomes along the city's scenic
                 waterways. This master-planned community consists of four distinct neighborhoods, each with unique
                 features. The heart of the development, Quayside Village, offers a waterfront promenade with shops,
@@ -265,7 +268,9 @@
         <div class="pt-md-5 pt-2"></div>
         <div class="container">
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color pb-md-3 pb-2">
-                <span class="mx-1">Lock & Quay Towns - Waterfront Living in Welland </span>
+                <span class="mx-1"><a href="https://homebaba.ca/welland/lock-quay" target="_blank"
+                        class="text-decoration-none text-dark"> Lock and Quay Towns </a> - Waterfront Living in Welland
+                </span>
             </h2>
             <div>
                 <img src="images/map.png" class="img-fluid " alt="">
